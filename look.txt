@@ -1,3 +1,5 @@
 进入到命令行后,输入git remote -v   即可查看git的服务器地址:
 
  如果还想看项目是从git的那个分支上拉下来的,可以在命令行中输入:git remote show origin 
+ 
+ git --help  //寻求帮助
